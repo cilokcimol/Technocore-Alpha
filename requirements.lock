@@ -1,0 +1,6 @@
+# Pinned lockfile. Install with: pip install -r requirements.lock
+# Generated 12 November 2026 with Python 3.12 and pip, cryptography 50.0.2.
+# Regenerate after any dependency change: pip freeze > requirements.lock
+cffi==2.1.1
+cryptography==50.0.2
+pycparser==3.12
