@@ -1,0 +1,10 @@
+{
+    "schema": "technocore-contribution-proof-v2",
+    "artifact_url": "https://github.com/cilokcimol/Technocore-Alpha",
+    "commit": "ec2bdbbf6c133714e9165fbe3a3287e5c81e4659",
+    "did": "did:key:z6MkuNFLm3gbGZibY9zGoEg4LajetxbZcZxiJ4stoywuP4Gj",
+    "issued_at": 1794451301,
+    "expires_at": 1802227301,
+    "nonce": "292a755c860deceabddedf3418046d10",
+    "signature": "GLY-a2-uSdl4oJX5N08eeW4nLsIjwcpOpO0b-5qsuLbsv1ROyTkgnoHkhWJivBBLEsGMSyaBijIPWTRQ2RR0DA"
+}
