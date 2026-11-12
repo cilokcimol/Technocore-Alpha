@@ -1,0 +1,3 @@
+# Technocore Alpha
+
+Seed commit.
